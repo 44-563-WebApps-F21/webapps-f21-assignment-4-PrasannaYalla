@@ -1,0 +1,15 @@
+.speech {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color:azure;
+}
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: blueviolet;
+}
+.stage_directions {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    color: chocolate;
+}
